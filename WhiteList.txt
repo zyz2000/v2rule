@@ -929,7 +929,6 @@
 .*\b100jiapu\.com
 .*\b100kk\.com
 .*\b100ksw\.com
-.*\b100lcrc\.com
 .*\b100lnrc\.com
 .*\b100loujia\.com
 .*\b100lw\.com
@@ -2946,7 +2945,6 @@
 .*\b2vc00\.com
 .*\b2w\.cm
 .*\b2weima\.com
-.*\b2xbinh\.com
 .*\b2xiazai\.com
 .*\b2y9y\.com
 .*\b2yuanma\.com
@@ -3234,7 +3232,6 @@
 .*\b3566t\.com
 .*\b357\.com
 .*\b357global\.com
-.*\b357my\.com
 .*\b35941\.com
 .*\b3595\.com
 .*\b35ba\.com
@@ -5957,7 +5954,6 @@
 .*\b61kezhan\.com
 .*\b61mami\.com
 .*\b61mc\.com
-.*\b61mon\.com
 .*\b61sheji\.com
 .*\b61sou\.com
 .*\b61tg\.com
@@ -5988,7 +5984,6 @@
 .*\b63346\.com
 .*\b637000\.cc
 .*\b6383\.com
-.*\b638977\.com
 .*\b639311\.com
 .*\b6399868\.com
 .*\b63diy\.com
@@ -7770,7 +7765,6 @@
 .*\b94i5\.com
 .*\b94ip\.com
 .*\b94ixs\.com
-.*\b94kssc8\.icu
 .*\b94lm\.com
 .*\b94mxd\.com
 .*\b94nw\.com
@@ -9489,6 +9483,7 @@
 .*\baliyunceng\.com
 .*\baliyuncs\.com
 .*\baliyundaiwei\.com
+.*\baliyunddos0018\.com
 .*\baliyunddos0020\.com
 .*\baliyunddos0026\.com
 .*\baliyunddos0030\.com
@@ -23045,7 +23040,6 @@
 .*\beskgn\.com
 .*\besky8\.com
 .*\beskysky\.com
-.*\besljt\.com
 .*\beslosity\.com
 .*\besmartwave\.com
 .*\besnai\.com
@@ -23304,7 +23298,6 @@
 .*\bexpba\.com
 .*\bexpcloud\.net
 .*\bexpdns\.net
-.*\bexpfile\.com
 .*\bexpiredns\.net
 .*\bexpirenotification\.com
 .*\bexpirepausedns\.com
@@ -29108,7 +29101,7 @@
 .*\bhfgrandtheatre\.com
 .*\bhfhouse\.com
 .*\bhfhyw\.com
-.*\bhfiwjo\.icu
+.*\bhfi-health\.com
 .*\bhfjy\.com
 .*\bhfkeheng\.com
 .*\bhfkj0754\.com
@@ -33971,7 +33964,6 @@
 .*\bjfedu\.net
 .*\bjfenz\.com
 .*\bjfewle\.com
-.*\bjfgfsj\.icu
 .*\bjfh\.com
 .*\bjfinal\.com
 .*\bjfinfo\.com
@@ -36435,7 +36427,6 @@
 .*\bkankantv\.cc
 .*\bkankanzhijian\.com
 .*\bkanketv\.com
-.*\bkankia\.com
 .*\bkankun-smartplug\.com
 .*\bkanlxy\.com
 .*\bkanman\.com
@@ -37413,7 +37404,6 @@
 .*\bkuaibbs\.com
 .*\bkuaibiancheng\.com
 .*\bkuaibiao2000\.com
-.*\bkuaibo\.com
 .*\bkuaibowang\.net
 .*\bkuaibuw\.com
 .*\bkuaicad\.com
@@ -37645,6 +37635,7 @@
 .*\bkuozhan\.net
 .*\bkupao\.com
 .*\bkuparts\.com
+.*\bkupoo\.com
 .*\bkuqin\.com
 .*\bkurogame\.com
 .*\bkurokingdom\.com
@@ -38730,7 +38721,6 @@
 .*\blh-lx\.com
 .*\blh168\.net
 .*\blh310\.com
-.*\blh499\.com
 .*\blh75\.com
 .*\blhao88\.com
 .*\blhave\.com
@@ -39684,7 +39674,6 @@
 .*\blnzsks\.com
 .*\blo97\.com
 .*\bload-page\.com
-.*\blobsfh\.icu
 .*\blocatran\.com
 .*\blocez\.com
 .*\blockfans\.com
@@ -43048,7 +43037,6 @@
 .*\bmugisama\.com
 .*\bmuguaddy\.com
 .*\bmuhai\.net
-.*\bmuhehuanbao\.com
 .*\bmuhoujiemi\.com
 .*\bmuimg\.com
 .*\bmujj\.us
@@ -44983,6 +44971,7 @@
 .*\bokdai\.com
 .*\bokdd\.net
 .*\bokemu\.com
+.*\bokex\.vip
 .*\bokeycar\.com
 .*\bokfri\.com
 .*\bokgj\.com
@@ -61082,6 +61071,7 @@
 .*\bworldofai\.com
 .*\bworldpathclinic\.com
 .*\bworldpia\.net
+.*\bworldpowerliftingchina\.com
 .*\bworldsocks\.com
 .*\bworlduc\.com
 .*\bworldui\.com
