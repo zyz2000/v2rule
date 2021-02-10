@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2021-02-10
+## Last update: 2021-02-11
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -4068,7 +4068,6 @@
 .*\b477sblive\.com
 .*\b47819\.com
 .*\b47gs\.com
-.*\b47hddy\.com
 .*\b47jh\.com
 .*\b47ks\.com
 .*\b47yun\.com
@@ -5185,7 +5184,6 @@
 .*\b52wlw\.com
 .*\b52wmb\.com
 .*\b52wubi\.com
-.*\b52wy\.com
 .*\b52xiaomian\.com
 .*\b52xiaoshuowang\.com
 .*\b52xiaoyuan\.net
@@ -16827,7 +16825,6 @@
 .*\bclick-v\.com
 .*\bclick369\.com
 .*\bclickclaro\.xyz
-.*\bclickstyle\.net
 .*\bclicksun\.net
 .*\bclickwifi\.net
 .*\bclient51\.com
@@ -33974,7 +33971,6 @@
 .*\bjfsky\.com
 .*\bjfstage\.com
 .*\bjfstatic\.com
-.*\bjftrf\.com
 .*\bjfuwu\.com
 .*\bjfxc\.com
 .*\bjfxqczl\.com
@@ -37807,7 +37803,6 @@
 .*\bladpex\.com
 .*\blady177\.com
 .*\blady361\.com
-.*\blady83\.com
 .*\blady8844\.com
 .*\blady98\.com
 .*\bladybirdedu\.com
@@ -38369,7 +38364,6 @@
 .*\bledi\.us
 .*\bledianduo\.com
 .*\blediaocha\.com
-.*\bledlightingfactory\.com
 .*\bledo\.com
 .*\bledongzone\.com
 .*\bledpfw\.net
@@ -48594,6 +48588,7 @@
 .*\bquantum-info\.com
 .*\bquanweili\.com
 .*\bquanxi\.cc
+.*\bquanxiangyun\.com
 .*\bquanxiaoshuo\.com
 .*\bquanyin\.xyz
 .*\bquanyouhui\.cc
@@ -50537,7 +50532,6 @@
 .*\bsdkclickurl\.com
 .*\bsdklh\.com
 .*\bsdksrv\.com
-.*\bsdlc6\.com
 .*\bsdlfjt\.com
 .*\bsdlldj\.com
 .*\bsdlocw\.com
@@ -61750,7 +61744,6 @@
 .*\bwydbw\.com
 .*\bwydljx\.com
 .*\bwydns\.com
-.*\bwygdu\.com
 .*\bwying360\.com
 .*\bwyins\.net
 .*\bwykefu\.com
@@ -62119,6 +62112,7 @@
 .*\bxddex\.com
 .*\bxddhy\.com
 .*\bxddpay\.com
+.*\bxddxs\.cc
 .*\bxddxx102\.com
 .*\bxde\.com
 .*\bxde6\.net
